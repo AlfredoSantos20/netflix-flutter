@@ -134,7 +134,7 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(height: 10),
 
              
-            SizedBox(
+  SizedBox(
   width: MediaQuery.of(context).size.width,
   height: 300, 
   child: CarouselSlider(
